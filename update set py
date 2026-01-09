@@ -1,0 +1,3 @@
+anu={"apple","natural"}
+anu.update((1,2,"gayathri"))
+print(anu)
